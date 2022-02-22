@@ -70,11 +70,3 @@ footer a {
     color: #024e76;
 }
 
-.starterForm {
-    padding: 60px;
-    background-image:url("./assets/images/hero-bg.jpg");
-}
-
-#submitButton {
-    color: pink;
-}
